@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=2069&auto=format&fit=crop" width="100%" height="240" style="object-fit:cover; border-radius:14px;" />
+<img src="image_0.png" width="100%" height="240" style="object-fit:cover; border-radius:14px;" />
 
 # 🏛️ The Yadav Gallery of Digital Architecture
 
@@ -9,7 +9,7 @@
 **Anirudh Yadav** 📍 Greater Noida, India  
 
 [![Email](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhydvfzd@gmail.com)
-[![GitHub](https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anirudh-ydv)
+[![GitHub](https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 <br>
 
@@ -95,8 +95,8 @@ but because they are **unnecessarily complex**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anirudh-ydv&show_icons=true&theme=transparent&hide_border=true" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh-ydv&theme=transparent&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=transparent&hide_border=true" height="150" />
 
 </div>
 
