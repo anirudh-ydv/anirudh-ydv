@@ -1,7 +1,8 @@
 
 <div align="center">
+<div align="center">
 
-<img src="https://images.unsplash.com/photo-1518998053901-5348d3961a04?q=80&w=2070&auto=format&fit=crop" width="100%" height="240" style="object-fit:cover; border-radius:14px;" />
+<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2064&auto=format&fit=crop" width="100%" height="240" style="object-fit:cover; border-radius:14px;" />
 
 # 🏛️ The Yadav Gallery of Digital Architecture
 
@@ -11,10 +12,7 @@
 [![GitHub](https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anirudh-ydv)
 
 </div>
-
-
-
-
+<div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Designing+Systems+that+Feel+Simple;Building+Interfaces+for+Everyone;Code+as+Digital+Architecture" />
 
 </div>
