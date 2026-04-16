@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="image_0.png" width="100%" height="240" style="object-fit:cover; border-radius:14px;" />
+<img src="https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=2070&auto=format&fit=crop" width="100%" height="240" style="object-fit:cover; border-radius:14px;" />
 
 # 🏛️ The Yadav Gallery of Digital Architecture
 
@@ -9,7 +9,7 @@
 **Anirudh Yadav** 📍 Greater Noida, India  
 
 [![Email](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhydvfzd@gmail.com)
-[![GitHub](https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anirudh-ydv)
 
 <br>
 
@@ -62,8 +62,6 @@
 - **Data Modeling:** Flexible MongoDB design  
 - **Optimization:** Data Structures & Algorithms  
 
-> This wing is under active expansion—new systems being added.
-
 ---
 
 ## 🖼️ Curator’s Philosophy
@@ -75,36 +73,20 @@ Like architecture, good software should:
 - Be **accessible to everyone**
 - Feel **intuitive without instruction**
 
-Most systems fail not because they are complex—  
-but because they are **unnecessarily complex**.
-
-> **My goal:** Reduce friction between humans and technology.
-
----
-
-## 🚧 Current Work
-
-- Exploring scalable backend systems  
-- Participating in hackathons  
-- Contributing to open-source ecosystems  
-- Solving real-world usability problems  
-
 ---
 
 ## 📊 Activity Snapshot
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=transparent&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=anirudh-ydv&show_icons=true&theme=transparent&hide_border=true" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh-ydv&theme=transparent&hide_border=true" height="150" />
 
 </div>
 
 ---
 
 ## 🛎️ Front Desk
-
-**Let’s build something meaningful.**
 
 📫 anirudhydvfzd@gmail.com  
 
