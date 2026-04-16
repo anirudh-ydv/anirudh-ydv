@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop" width="100%" height="240" style="object-fit:cover; border-radius:14px;" />
+<img src="https://images.unsplash.com/photo-1563089145-599997674d42?q=80&w=2070&auto=format&fit=crop" width="100%" height="240" style="object-fit:cover; border-radius:14px;" />
 
 # 🏛️ The Yadav Gallery of Digital Architecture
 
