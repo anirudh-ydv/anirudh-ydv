@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format&fit=crop" width="100%" height="240" style="object-fit:cover; border-radius:14px;" />
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=2072&auto=format&fit=crop" width="100%" height="240" style="object-fit:cover; border-radius:14px;" />
 
-# 🏛️ The Yadav Gallery of Digital Architecture
+# 🏛️The Syntax Skyline
+
 
 ### *A curated space where code meets design*
 
@@ -19,9 +20,15 @@
 
 ---
 
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Programmer Coding" width="280" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=anirudh-ydv&color=58A6FF&style=flat-square&label=Gallery+Visitors)
+
 ## 🗺️ Gallery Map
 
 > Every section of this profile represents a **wing of expertise**, designed like a public space—clear, structured, and accessible.
+
+<br clear="both">
 
 ---
 
@@ -29,11 +36,10 @@
 
 *Where users interact. Where simplicity is engineered.*
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
 </p>
-
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Chart.js-Data_Visualization-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
 </p>
 
@@ -47,14 +53,19 @@
 - **Logic:** JavaScript   
 - **Visual Insight:** Data storytelling with Chart.js  
 
+<br clear="both">
+
 ---
+
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Programmer Coding" width="280" />
+
 
 ## 🏗️ Wing B — Backend Foundation *(Evolving)*
 
 *The unseen structure that holds everything together.*
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,linux,git" />
 </p>
 
 **Engineering Focus:**
@@ -64,21 +75,11 @@
 
 > This wing is under active expansion—new systems being added.
 
----
+<br>
 
-## 🖼️ Curator’s Philosophy
 
-I don’t just write code—I design **digital spaces**.
 
-Like architecture, good software should:
-- Be **structurally reliable**
-- Be **accessible to everyone**
-- Feel **intuitive without instruction**
-
-Most systems fail not because they are complex—  
-but because they are **unnecessarily complex**.
-
-> **My goal:** Reduce friction between humans and technology.
+<br clear="both">
 
 ---
 
@@ -89,29 +90,32 @@ but because they are **unnecessarily complex**.
 - Contributing to open-source ecosystems  
 - Solving real-world usability problems  
 
----
+<br>
 
 ## 📊 Activity Snapshot
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anirudh-ydv&show_icons=true&theme=transparent&hide_border=true" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh-ydv&theme=transparent&hide_border=true" height="150" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=anirudh-ydv&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh-ydv&theme=radical&hide_border=true" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anirudh-ydv&bg_color=141321&color=ff1493&line=ff1493&point=FFFFFF&hide_border=true" width="100%" />
 </div>
 
+<br>
+
 ---
+
+<img align="right" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving Hand" width="120" />
 
 ## 🛎️ Front Desk
 
 **Let’s build something meaningful.**
 
-📫 anirudhydvfzd@gmail.com  
-
----
+📫 **[anirudhydvfzd@gmail.com](mailto:anirudhydvfzd@gmail.com)** <br clear="both">
+<br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </div>
