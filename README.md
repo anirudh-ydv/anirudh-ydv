@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?q=80&w=2069&auto=format&fit=crop" width="100%" height="240" style="object-fit:cover; border-radius:14px;" />
+<img src="https://images.unsplash.com/photo-1550592704-6c76defa9985?q=80&w=2070&auto=format&fit=crop" width="100%" height="240" style="object-fit:cover; border-radius:14px;" />
 
 # 🏛️ The Yadav Gallery of Digital Architecture
+
+### *A curated space where code meets design*
 
 **Anirudh Yadav** 📍 Greater Noida, India  
 
 [![Email](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhydvfzd@gmail.com)
 [![GitHub](https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anirudh-ydv)
 
-</div>
+<br>
 
-*(Remainder of the content is identical to the structure above—just swap the top image tag)*
-<div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Designing+Systems+that+Feel+Simple;Building+Interfaces+for+Everyone;Code+as+Digital+Architecture" />
 
 </div>
@@ -62,6 +62,8 @@
 - **Data Modeling:** Flexible MongoDB design  
 - **Optimization:** Data Structures & Algorithms  
 
+> This wing is under active expansion—new systems being added.
+
 ---
 
 ## 🖼️ Curator’s Philosophy
@@ -72,6 +74,20 @@ Like architecture, good software should:
 - Be **structurally reliable**
 - Be **accessible to everyone**
 - Feel **intuitive without instruction**
+
+Most systems fail not because they are complex—  
+but because they are **unnecessarily complex**.
+
+> **My goal:** Reduce friction between humans and technology.
+
+---
+
+## 🚧 Current Work
+
+- Exploring scalable backend systems  
+- Participating in hackathons  
+- Contributing to open-source ecosystems  
+- Solving real-world usability problems  
 
 ---
 
@@ -87,6 +103,8 @@ Like architecture, good software should:
 ---
 
 ## 🛎️ Front Desk
+
+**Let’s build something meaningful.**
 
 📫 anirudhydvfzd@gmail.com  
 
