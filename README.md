@@ -44,7 +44,7 @@
 
 **Core Layers:**
 - **Structure:** Semantic HTML + responsive CSS  
-- **Logic:** JavaScript (ES6+, Vanilla)  
+- **Logic:** JavaScript   
 - **Visual Insight:** Data storytelling with Chart.js  
 
 ---
