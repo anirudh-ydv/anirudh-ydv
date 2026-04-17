@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=2072&auto=format&fit=crop" width="100%" height="240" style="object-fit:cover; border-radius:14px;" />
+<img src="https://raw.githubusercontent.com/anirudh-ydv/anirudh-ydv/main/github-header-banner%20(7).png" width="100%" />
 
 # 🏛️The Syntax Skyline
 
@@ -31,13 +31,14 @@
 <br clear="both">
 
 ---
+<img align="right" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Cat/Flat/cat_flat.png" alt="Sitting Frontal Cat" width="150" />
 
 ## 🌅 Wing A — Frontend Canvas
 
 *Where users interact. Where simplicity is engineered.*
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Chart.js-Data_Visualization-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
@@ -56,16 +57,14 @@
 <br clear="both">
 
 ---
-
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Programmer Coding" width="280" />
-
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG5uYmZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6JnB2PTEmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Typing Cat" width="250" />
 
 ## 🏗️ Wing B — Backend Foundation *(Evolving)*
 
 *The unseen structure that holds everything together.*
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,linux,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,github" />
 </p>
 
 **Engineering Focus:**
@@ -82,6 +81,8 @@
 <br clear="both">
 
 ---
+<img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Digital System Flow" width="250" />
+
 
 ## 🚧 Current Work
 
