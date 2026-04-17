@@ -31,7 +31,7 @@
 <br clear="both">
 
 ---
-<img align="right" src="https://raw.githubusercontent.com/anirudh-ydv/anirudh-ydv/main/Lazy%20Ginger%20Cat%20_%20Vector%20Kitchen%20by%20Zoljo.jpg" width="620" />
+<img align="right" src="https://raw.githubusercontent.com/anirudh-ydv/anirudh-ydv/main/Lazy%20Ginger%20Cat%20_%20Vector%20Kitchen%20by%20Zoljo.jpg" width="500" />
 
 
 ## 🌅 Wing A — Frontend Canvas
