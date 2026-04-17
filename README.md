@@ -31,7 +31,8 @@
 <br clear="both">
 
 ---
-<img align="right" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Cat/Flat/cat_flat.png" alt="Sitting Frontal Cat" width="150" />
+<img align="right" src="https://raw.githubusercontent.com/anirudh-ydv/anirudh-ydv/main/Lazy%20Ginger%20Cat%20_%20Vector%20Kitchen%20by%20Zoljo.jpg" width="620" />
+
 
 ## 🌅 Wing A — Frontend Canvas
 
@@ -57,7 +58,7 @@
 <br clear="both">
 
 ---
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG5uYmZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6JnB2PTEmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Typing Cat" width="250" />
+<img align="right" src="https://raw.githubusercontent.com/anirudh-ydv/anirudh-ydv/main/Cute%20Cat%20Streching%20Animal%20Yoga%20Concept%20Kitten%20Doing%20Yoga%20T-shirt%20_%20Yoga-day.jpg" width="360" />
 
 ## 🏗️ Wing B — Backend Foundation *(Evolving)*
 
@@ -81,7 +82,8 @@
 <br clear="both">
 
 ---
-<img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Digital System Flow" width="250" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG5uYmZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6JnB2PTEmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Typing Cat" width="250" />
+
 
 
 ## 🚧 Current Work
