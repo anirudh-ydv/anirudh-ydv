@@ -31,7 +31,7 @@
 <br clear="both">
 
 ---
-<img align="right" src="https://raw.githubusercontent.com/anirudh-ydv/anirudh-ydv/main/Lazy%20Ginger%20Cat%20_%20Vector%20Kitchen%20by%20Zoljo.jpg" width="500" />
+<img align="right" src="https://raw.githubusercontent.com/anirudh-ydv/anirudh-ydv/fd0a45a0afac5075931c739facdf4df0bcbeb4b8/Lazy_Ginger_Cat___Vector_Kitchen_by_Zoljo-removebg-preview.png" width="550" style="filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.2));" />
 
 
 ## 🌅 Wing A — Frontend Canvas
@@ -58,7 +58,7 @@
 <br clear="both">
 
 ---
-<img align="right" src="https://raw.githubusercontent.com/anirudh-ydv/anirudh-ydv/main/Cute%20Cat%20Streching%20Animal%20Yoga%20Concept%20Kitten%20Doing%20Yoga%20T-shirt%20_%20Yoga-day.jpg" width="360" />
+<img align="right" src="https://raw.githubusercontent.com/anirudh-ydv/anirudh-ydv/fd0a45a0afac5075931c739facdf4df0bcbeb4b8/Cute_Cat_Streching_Animal_Yoga_Concept_Kitten_Doing_Yoga_T-shirt___Yoga-day-removebg-preview.png" width="350" style="filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.2));" />
 
 ## 🏗️ Wing B — Backend Foundation *(Evolving)*
 
