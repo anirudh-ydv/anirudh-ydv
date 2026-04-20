@@ -31,7 +31,7 @@
 <br clear="both">
 
 ---
-<img align="right" src="https://raw.githubusercontent.com/anirudh-ydv/anirudh-ydv/fd0a45a0afac5075931c739facdf4df0bcbeb4b8/Lazy_Ginger_Cat___Vector_Kitchen_by_Zoljo-removebg-preview.png" width="550" style="filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.2));" />
+<img align="right" src="https://raw.githubusercontent.com/anirudh-ydv/anirudh-ydv/fd0a45a0afac5075931c739facdf4df0bcbeb4b8/Lazy_Ginger_Cat___Vector_Kitchen_by_Zoljo-removebg-preview.png" width="480" style="filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.2));" />
 
 
 ## 🌅 Wing A — Frontend Canvas
