@@ -58,7 +58,7 @@
 <br clear="both">
 
 ---
-
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG5uYmZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6JnB2PTEmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Typing Cat" width="250" />
 
 ## 🏗️ Wing B — Backend Foundation *(Evolving)*
 
@@ -82,7 +82,6 @@
 <br clear="both">
 
 ---
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG5uYmZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6JnB2PTEmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Typing Cat" width="250" />
 
 
 
@@ -91,6 +90,8 @@
 - Exploring scalable backend systems  
 - Contributing to open-source ecosystems  
 - Solving real-world usability problems
+
+  
 
 
 <br>
