@@ -90,7 +90,8 @@
 
 - Exploring scalable backend systems  
 - Contributing to open-source ecosystems  
-- Solving real-world usability problems  
+- Solving real-world usability problems
+
 
 <br>
 
