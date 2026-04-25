@@ -115,10 +115,7 @@
 
 ## 🛎️ Front Desk
 
-**Let’s build something meaningful.**
 
-📫 **[anirudhydvfzd@gmail.com](mailto:anirudhydvfzd@gmail.com)** <br clear="both">
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
