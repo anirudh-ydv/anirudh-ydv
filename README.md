@@ -2,10 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/anirudh-ydv/anirudh-ydv/main/github-header-banner%20(7).png" width="100%" />
 
-# 🏛️The Syntax Skyline
 
-
-### *A curated space where code meets design*
 
 **Anirudh Yadav** 📍 Greater Noida, India  
 
