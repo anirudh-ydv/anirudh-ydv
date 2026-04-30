@@ -4,14 +4,14 @@
 
 
 
-**Anirudh Yadav** 📍 Greater Noida, India  
+**Anirudh Yadav** 📍 Noida, India  
 
-[![Email](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhydvfzd@gmail.com)
-[![GitHub](https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anirudh-ydv)
+
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Designing+Systems+that+Feel+Simple;Building+Interfaces+for+Everyone;Code+as+Digital+Architecture" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=CSE+Student;Frontend+Developer;Exploring+Full+Stack+Development" />
 
 </div>
 
@@ -21,77 +21,37 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anirudh-ydv&color=58A6FF&style=flat-square&label=Gallery+Visitors)
 
-## 🗺️ Gallery Map
+## 👨‍💻 About Me
 
-> Every section of this profile represents a **wing of expertise**, designed like a public space—clear, structured, and accessible.
+Hi! I'm Anirudh Yadav, a Computer Science and Engineering student focused on full-stack development. 
 
-<br clear="both">
 
 ---
 
-
-
-## 🌅 Wing A — Frontend Canvas
-
-*Where users interact. Where simplicity is engineered.*
+## 🚀 Technical Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Chart.js-Data_Visualization-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
-</p>
-
-**Design Philosophy:**
-- Interfaces should require **zero explanation**
-- Interactions should feel **natural, not forced**
-- Performance should remain **invisible but powerful**
-
-**Core Layers:**
-- **Structure:** Semantic HTML + responsive CSS  
-- **Logic:** JavaScript   
-- **Visual Insight:** Data storytelling with Chart.js  
-
-<br clear="both">
-
----
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG5uYmZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6JnB2PTEmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Typing Cat" width="250" />
-
-## 🏗️ Wing B — Backend Foundation *(Evolving)*
-
-*The unseen structure that holds everything together.*
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,github" />
-</p>
-
-**Engineering Focus:**
-- **Server Architecture:** Node.js ecosystem  
-- **Data Modeling:** Flexible MongoDB design  
-- **Optimization:** Data Structures & Algorithms  
-
-> This wing is under active expansion—new systems being added.
-
-<br>
-
-
-
-<br clear="both">
-
----
-
-
-
-## 🚧 Current Work
-
-- Exploring scalable backend systems  
-- Contributing to open-source ecosystems  
-- Solving real-world usability problems
-
+  <!-- Frontend Canvas -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
   
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  
+  <!-- AI, Cloud & Version Control -->
+  <img src="https://img.shields.io/badge/API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="API" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
 
 
-<br>
 
 ## 📊 Activity Snapshot
 
@@ -110,9 +70,13 @@
 
 <img align="right" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving Hand" width="120" />
 
-## 🛎️ Front Desk
+
+## 📩 Get In Touch
 
 
+[![Email](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhydvfzd@gmail.com)
+[![GitHub](https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anirudh-ydv)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-yadav-77573238b/)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
